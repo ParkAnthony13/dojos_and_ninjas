@@ -1,0 +1,13 @@
+.top {
+    display: flex;
+}
+
+.dojo_table {
+    outline: 2px solid black;
+}
+
+.new_ninja_form {
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+}
